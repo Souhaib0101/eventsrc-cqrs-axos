@@ -32,6 +32,11 @@ build/
 ### VS Code ###
 .vscode/
 
+### Local databases and environment ###
+/data/
+.env
+*.log
+
 # Repository exclusions
 [Rr][Ee][Aa][Dd][Mm][Ee]*
 /.github/workflows/
